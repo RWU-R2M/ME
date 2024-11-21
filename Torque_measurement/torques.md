@@ -1,4 +1,4 @@
-## Results from Torque measurements 21/11/2024
+## Results from Torque measurements 20/11/2024
 
 
 | Load (g) | Distance (mm) | Torque (Nm) | Payload (kg) | Remarks   | Attempt | Rover dry weight no electronics (only base chassis)(kg) |
